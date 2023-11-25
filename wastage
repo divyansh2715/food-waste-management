@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+	body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, nav, section, footer {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f1f1f1;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: #333;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: #ddd;
+}
+
+section img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+}
+	</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Food Waste Management</title>
+</head>
+
+<body>
+    <header>
+        <h1>Food Waste Management</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#blog">Blog</a></li>
+            <li><a href="#resources">Resources</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="home">
+        <h2>Welcome to our Food Waste Management Website</h2>
+        <p>Welcome to our home for food waste management—a sanctuary of sustainable practices. Dive into a world where every meal matters. Explore actionable guides, insightful articles, and community stories to transform your relationship with food. Together, let's pioneer a future where waste is minimized, resources are maximized, and our planet thrives. Join the movement, embrace responsible living, and make your home a catalyst for change. It starts here, it starts now—welcome to a greener, more sustainable world.</p>
+        <img src="C:\Users\DELL\OneDrive\Desktop\3-Foodwaste.jpg" alt="Food Waste Management">
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>At student organisation, we are on a mission to combat the global challenge of food waste and champion sustainable living. Founded with a passion for environmental conservation and a commitment to fostering positive change, our organization is dedicated to reshaping the way we approach and manage food resources.
+
+Our journey began with a simple yet powerful belief: every morsel matters. With one-third of the world's food going to waste annually, we felt compelled to act. Our team comprises enthusiastic individuals from diverse backgrounds, each bringing unique expertise to the table. From environmental scientists to passionate advocates, we collaborate to develop and promote practical solutions for reducing food waste at every level of society.
+
+Through extensive research, community engagement, and strategic partnerships, we aim to raise awareness about the environmental, social, and economic implications of food waste. By providing educational resources, organizing events, and collaborating with businesses, we empower individuals and communities to adopt sustainable practices that minimize their impact on the planet.</p>
+      </section>
+
+    <section id="blog">
+        <h2>Blog</h2>
+		<h4>Title: "Tackling Food Waste: A Recipe for Sustainability"</h4>
+        <p>In a world where millions go hungry, the staggering amount of food waste demands urgent attention. Our responsibility to manage food waste is paramount for a sustainable future. By adopting mindful consumption habits, such as meal planning and proper storage, individuals can significantly reduce their contribution to this global predicament. Embracing a 'zero-waste' lifestyle doesn't require drastic changes; it starts with conscious choices.
+
+Restaurants and grocery stores also play pivotal roles in food waste management. Partnerships with local organizations can redirect surplus food to those in need, fostering a sense of community responsibility. Composting is another impactful solution, converting organic waste into nutrient-rich soil. As we navigate these solutions, we contribute not only to waste reduction but also to a healthier planet. Each meal saved is a step towards a more sustainable and compassionate world. Together, let's savor the flavor of responsible living while nourishing our communities and the environment.</p>
+    <img src="C:\Users\DELL\OneDrive\Desktop\786003fdec2ec0cf182066abe3e1b998.jpg" alt="About Food Waste Management">
+	</section>
+
+    <section id="resources">
+        <h2>Resources</h2>
+        <p>Food waste management is a critical aspect of sustainable living and environmental conservation. It involves the reduction, recovery, and recycling of discarded food to minimize its negative impact on the environment. Globally, about one-third of all food produced for human consumption is lost or wasted each year, contributing to significant economic, social, and environmental challenges.
+
+The primary goals of food waste management are to decrease the environmental footprint associated with food disposal, alleviate the strain on landfills, and address the ethical concerns of hunger and resource scarcity. Strategies for effective management include promoting awareness about responsible consumption, encouraging proper storage and meal planning, and fostering collaborations between stakeholders across the food supply chain.
+
+By implementing food waste management practices, individuals, businesses, and communities can contribute to a more sustainable future. These efforts not only conserve valuable resources but also reduce greenhouse gas emissions generated by decomposing organic waste in landfills. Overall, food waste management is a crucial component of the broader initiative to create a more environmentally conscious and resource-efficient society.</p>
+    <img src="C:\Users\DELL\OneDrive\Desktop\food.webp" alt="About Food Waste Management">
+	</section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Contact us :Divyanshsharma378@gmail.com</p>
+		<p>follow us :Divyansh@foodwastemanagement</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Food Waste Management</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
